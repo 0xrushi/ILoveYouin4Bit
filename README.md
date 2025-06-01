@@ -20,11 +20,13 @@ Install:
 **Create an HTTP Server in Tasker**
 
 Set up a Tasker profile that listens for HTTP requests. This will act as a mini local API for swiping/screenshot commands.
-👉 Demo: [Tasker HTTP Server Setup](https://youtu.be/0R9Go6tJqKY)
+
+Demo: [Tasker HTTP Server Setup](https://youtu.be/0R9Go6tJqKY)
 
 **Configure gesture2.0 Task**
 
 Create a Task in Tasker called gesture2.0 that uses AutoInput to simulate swipe gestures on your screen. Assign this task as the response to HTTP requests.  
-👉 Demo: [AutoInput HTTP Swipe Demo](https://youtu.be/qQlPUXw4-_A)
+
+Demo: [AutoInput HTTP Swipe Demo](https://youtu.be/qQlPUXw4-_A)
 
 With this setup you can send simple HTTP calls to your phone to do gesture and actions all hands-free
